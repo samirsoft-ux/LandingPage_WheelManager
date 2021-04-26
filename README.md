@@ -1,2 +1,2 @@
-# LandingPage_WheelManager
-Static Landing Page Wheel Manager
+# Landingpage_Wheelmanager
+Wheel manager landing page
